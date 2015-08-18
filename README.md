@@ -1,9 +1,9 @@
-Author - Anna Kruglaia
+A project for Linguistic Computational Creativity course. </br>
+
+The twitter bot tries to give sensible names to random colors posted by @everycolorbot.</br>
+Link: <a href="https://twitter.com/awesomecolorbot">Awesome Color Bot on Twitter</a>
 
 Dependencies: twitter4j and commons-codec.
 
-SimBot.java - twitter connection from the first week. 
-ColorBlender.java - functions for color mixing and comparing.
-ColorbaseCreator.java - mapping work (in progress). 
 
 
