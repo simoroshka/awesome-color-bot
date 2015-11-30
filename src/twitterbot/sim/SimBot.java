@@ -14,8 +14,8 @@ import java.util.*;
 import static twitterbot.sim.ColornameCreator.*;
 
 public class SimBot {
-    private final static String CONSUMER_KEY = "vdjdLLrAM1X4AU0KDXIy0KgDt";
-    private final static String CONSUMER_KEY_SECRET = "a84OwDRYo1jWOu55GChrdjart97IQMyvNpb54qqJ0ZrtIudFvg";
+    private final static String CONSUMER_KEY = "__________________________";
+    private final static String CONSUMER_KEY_SECRET = "__________________________________________";
     
     public void start() throws TwitterException, IOException {
 
@@ -73,12 +73,12 @@ public class SimBot {
     private String getSavedAccessTokenSecret() {
         // consider this is method to get your previously saved Access Token
         // Secret
-        return "pSHI14xFoVuJ4BNRIcK7w4es8yE6JPbO1gMv12R1hiqHt";
+        return "_________________________________";
     }
 
     private String getSavedAccessToken() {
         // consider this is method to get your previously saved Access Token
-        return "2289209332-TfvpYIrQOvKv1JTKLfb7iqf49M2AomomtOWOlLZ";
+        return "__________________________________";
     }
 }
 
